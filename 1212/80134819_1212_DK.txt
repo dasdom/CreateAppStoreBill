@@ -1,0 +1,5 @@
+Start Date	End Date	UPC	ISRC/ISBN	Vendor Identifier	Quantity	Partner Share	Extended Partner Share	Partner Share Currency	Sales or Return	Apple Identifier	Artist/Show/Developer/Author	Title	Label/Studio/Network/Developer/Publisher	Grid	Product Type Identifier	ISAN/Other Identifier	Country Of Sale	Pre-order Flag	Promo Code	Customer Price	Customer Currency
+12/02/2012	12/29/2012			phy_1_0	3	7.91	23.73	DKK	S	325836855	Dominik Hauser	Phy - phys. Formelsammlung und Taschenrechner			1F		DK			13.00	DKK
+Total_Rows	1
+Total_Amount	23.73
+Total_Units	3

@@ -1,0 +1,8 @@
+Start Date	End Date	UPC	ISRC/ISBN	Vendor Identifier	Quantity	Partner Share	Extended Partner Share	Partner Share Currency	Sales or Return	Apple Identifier	Artist/Show/Developer/Author	Title	Label/Studio/Network/Developer/Publisher	Grid	Product Type Identifier	ISAN/Other Identifier	Country Of Sale	Pre-order Flag	Promo Code	Customer Price	Customer Currency
+12/02/2012	12/29/2012			VEGANE_WEIHNACHTSBAECKEREI	16	1.30	20.80	CHF	S	483459501	Dominik Hauser	Vegane Weihnachtsbäckerei			1F		CH			2.00	CHF
+12/02/2012	12/29/2012			444	5	0.65	3.25	CHF	S	381153214	Dominik Hauser	PhyLer - Physik Formeln Lernen			1F		CH			1.00	CHF
+12/02/2012	12/29/2012			phy_1_0	6	1.30	7.80	CHF	S	325836855	Dominik Hauser	Phy - phys. Formelsammlung und Taschenrechner			1F		CH			2.00	CHF
+12/02/2012	12/29/2012			FORMELLERNER	2	0.65	1.30	CHF	S	475852591	Dominik Hauser	FormelLerner - spielerisch physikalische Formeln lernen			1		CH			1.00	CHF
+Total_Rows	4
+Total_Amount	33.15
+Total_Units	29

@@ -1,0 +1,6 @@
+Start Date	End Date	UPC	ISRC/ISBN	Vendor Identifier	Quantity	Partner Share	Extended Partner Share	Partner Share Currency	Sales or Return	Apple Identifier	Artist/Show/Developer/Author	Title	Label/Studio/Network/Developer/Publisher	Grid	Product Type Identifier	ISAN/Other Identifier	Country Of Sale	Pre-order Flag	Promo Code	Customer Price	Customer Currency
+12/02/2012	12/29/2012			VEGANE_WEIHNACHTSBAECKEREI	1	1.27	1.27	AUD	S	483459501	Dominik Hauser	Vegane Weihnachtsbäckerei			1F		AU			1.99	AUD
+12/02/2012	12/29/2012			phy_1_0	10	1.27	12.70	AUD	S	325836855	Dominik Hauser	Phy - phys. Formelsammlung und Taschenrechner			1F		AU			1.99	AUD
+Total_Rows	2
+Total_Amount	13.97
+Total_Units	11

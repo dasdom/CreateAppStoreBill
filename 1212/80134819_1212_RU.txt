@@ -1,0 +1,5 @@
+Start Date	End Date	UPC	ISRC/ISBN	Vendor Identifier	Quantity	Partner Share	Extended Partner Share	Partner Share Currency	Sales or Return	Apple Identifier	Artist/Show/Developer/Author	Title	Label/Studio/Network/Developer/Publisher	Grid	Product Type Identifier	ISAN/Other Identifier	Country Of Sale	Pre-order Flag	Promo Code	Customer Price	Customer Currency
+12/02/2012	12/29/2012			phy_1_0	3	46.20	138.60	RUB	S	325836855	Dominik Hauser	Phy - phys. Formelsammlung und Taschenrechner			1F		RU			66.00	RUB
+Total_Rows	1
+Total_Amount	138.6
+Total_Units	3
