@@ -31,11 +31,17 @@
           <h3>
 <a name="generate-bills-from-apples-financial-reports" class="anchor" href="#generate-bills-from-apples-financial-reports"><span class="octicon octicon-link"></span></a>Generate Bills from Apples Financial Reports</h3>
 
-<p>This automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here using GitHub Flavored Markdown, select a template crafted by a designer, and publish. After your page is generated, you can check out the new branch:</p>
+<p>Apple generates financial reports in txt format. The German tax office wants to see the bills. This script helps to generate the bills from the financial reports.</p>
 
-<pre><code>$ cd your_repo_root/repo_name
-$ git fetch origin
-$ git checkout gh-pages
+<h3>
+<a name="how-it-works" class="anchor" href="#how-it-works"><span class="octicon octicon-link"></span></a>How it works</h3>
+
+<p>For every month generate a dictionary. Let's say you want to generate the bills for December 2012. You could do this:</p>
+
+<pre><code>$ cd
+$ cd Documents
+$ mkdir financial_reports; cd financial_reports
+$ mkdir 1212; cd 1212
 </code></pre>
 
 <p>If you're using the GitHub for Mac, simply sync your repository and you'll see the new branch.</p>
