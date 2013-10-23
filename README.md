@@ -1,10 +1,15 @@
 ### Generate Bills from Apples Financial Reports
 Apple generates financial reports in txt format. The German tax office wants to see the bills. This script helps to generate the bills from the financial reports.
 
+### Important Note
+Use this at your own risk. To create the bills for the tax office with this script works for me. Before you submit the bills check with your tax consultant! I am not responsible for any problems you have with your tax office because of this script.
+
 ### What you need
 You need pdflatex on your machine. And you should be able to edit LaTeX files because you have to add your address in the head.tex file.
 
 ### How it works
+Read the Imortant Note. Read it again!
+
 For every month generate a dictionary. Let's say you want to generate the bills for December 2012. You could do this:
 
 ```
