@@ -52,3 +52,5 @@ $ perl summarize.pl 1212 head.tex tail.tex
 Now you should have files called bill_1212.pdf and bill_1212.tex in that directory. 
 
 Done.
+
+[![endorse](https://api.coderwall.com/dasdom/endorsecount.png)](https://coderwall.com/dasdom)
