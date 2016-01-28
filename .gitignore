@@ -1,0 +1,3 @@
+# ignore all numeric folders, but not the example files
+/[0-9]*/
+!/1212/
