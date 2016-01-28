@@ -25,6 +25,7 @@ my %withholding_tax_factor;
 while (defined(my $line = <FACTORS>)) {
 #  print "$line\n";
   my @line_components = split(/\t/,$line);
+  s{^\s+|\s+$}{}g foreach @line_components;
 #  print "$line_components[3]\n";
   #     print "-$line_components[0]- -$line_components[8]- \n";
   #    print "$line_components[4] $line_components[3]\n";
